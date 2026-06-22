@@ -7,60 +7,37 @@ Building scalable backend systems and modern web applications.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Engineer;Spring+Boot+%7C+Angular+Developer;Backend+%2B+Frontend+%2B+Integration;Building+Production-Grade+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Engineer;Spring+Boot+%7C+Angular+Developer;Backend+%2B+Frontend+%2B+Integration;Production-Grade+Systems+Builder" />
 </p>
 
 ---
 
 ## ⚡ About Me
 
-- 🔹 Java Full Stack Engineer building scalable backend systems and modern web applications  
+- 🔹 Java Full Stack Engineer focused on scalable backend & modern web apps  
 - 🔹 Strong experience in Spring Boot, Angular and REST APIs  
-- 🔹 Hands-on experience in authentication, security and system integrations  
-- 🔹 Worked with healthcare interoperability standards (FHIR) and enterprise systems  
-- 🔹 Passionate about clean architecture, performance and maintainable code  
+- 🔹 Hands-on experience in authentication, security and system integration  
+- 🔹 Working with healthcare systems (FHIR) and enterprise architectures  
+- 🔹 Passionate about clean code and production-ready systems  
 
 ---
 
-## 💡 Expertise
+## 💡 Core Stack
 
 <p>
-<img src="https://img.shields.io/badge/Backend_Systems-1E1E1E?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full_Stack_Development-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System_Integration-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Security_&_Auth-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Healthcare_IT_FHIR-0096D6?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,angular,ts,js,html,css,sass,bootstrap" />
 </p>
 
----
-
-## ⚙️ Core Tech Stack
-
-### ☕ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,maven" />
-<img src="https://skillicons.dev/icons?i=hibernate" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,git" />
 </p>
 
----
-
-### 🌐 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,bootstrap" />
-</p>
-
----
-
-### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-<img src="https://skillicons.dev/icons?i=redis" />
+<img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge"/>
 </p>
 
----
-
-### 🔐 Security & Auth
 <p>
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
 <img src="https://img.shields.io/badge/OAuth2-3C3C3C?style=for-the-badge"/>
@@ -68,58 +45,9 @@ Building scalable backend systems and modern web applications.
 <img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta"/>
 </p>
 
----
-
-### ⚙️ DevOps & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git" />
-<img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge"/>
-</p>
-
----
-
-### 🧪 Testing & API
-<p>
-<img src="https://skillicons.dev/icons?i=junit" />
-<img src="https://img.shields.io/badge/Mockito-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-</p>
-
----
-
-### 🏗️ Architecture & Concepts
-<p>
-<img src="https://img.shields.io/badge/OOP-2E8B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Software_Architecture-1E1E1E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multithreading-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-6A5ACD?style=for-the-badge"/>
-</p>
-
----
-
-### 🏥 Integration & Specialization
-<p>
-<img src="https://img.shields.io/badge/FHIR-0096D6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System_Integration-8A2BE2?style=for-the-badge"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=elbestawyy&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=elbestawyy&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=elbestawyy&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://img.shields.io/badge/FHIR-0096D6?style=for-the-badge"/>
 </p>
 
 ---
@@ -127,6 +55,7 @@ Building scalable backend systems and modern web applications.
 ## 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://linkedin.com/in/elbestawy">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -138,6 +67,7 @@ Building scalable backend systems and modern web applications.
 <a href="https://www.codewars.com/users/elbestawyy">
 <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/>
 </a>
+
 </p>
 
 ---
