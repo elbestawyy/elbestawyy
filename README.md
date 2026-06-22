@@ -101,15 +101,15 @@
 <div align="center">
 
 <a href="https://linkedin.com/in/elbestawy">
-  <img src="./assets/emails/linkedin.png" height="40" title="LinkedIn"/>
+  <img src="./assets/contact/linkedin.png" height="40" title="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:melbestawyyy@gmail.com">
-  <img src="./assets/emails/gmail.png" height="40" title="Gmail"/>
+  <img src="./assets/contact/gmail.png" height="40" title="Gmail"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.codewars.com/users/elbestawyy">
-  <img src="./assets/emails/codewars.png" height="40" title="Codewars"/>
+  <img src="./assets/contact/codewars.png" height="40" title="Codewars"/>
 </a>
 
 </div>
