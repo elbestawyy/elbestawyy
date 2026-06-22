@@ -100,15 +100,15 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/elbestawy">
+<a href="https://linkedin.com/in/elbestawy" target="_blank">
   <img src="./assets/contact/linkedin.png" height="40" title="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:melbestawyyy@gmail.com">
+<a href="mailto:melbestawyyy@gmail.com" target="_blank">
   <img src="./assets/contact/gmail.png" height="40" title="Gmail"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.codewars.com/users/elbestawyy">
+<a href="https://www.codewars.com/users/elbestawyy" target="_blank">
   <img src="./assets/contact/codewars.png" height="40" title="Codewars"/>
 </a>
 
