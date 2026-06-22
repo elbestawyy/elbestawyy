@@ -2,13 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Elbestawy;Java+Full+Stack+Engineer;Spring+Boot+%7C+Angular+%7C+Docker;Production-Grade+Systems+Builder" alt="Typing SVG" />
 
-<br/>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=elbestawyy&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/elbestawyy?label=Followers&style=flat&color=0e75b6" alt="followers" />
-</p>
-
 </div>
 
 ---
@@ -78,21 +71,6 @@
   <img src="./assets/ide/webstorm.png" height="40" title="WebStorm"/>
   <img src="./assets/ide/postman.png" height="40" title="Postman"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=elbestawyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbestawyy&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=elbestawyy&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
