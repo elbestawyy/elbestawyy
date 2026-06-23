@@ -6,12 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=700&lines=Spring+Boot+Framework+%7C+Angular;Production-Grade+Systems+Builder;Backend-first%2C+Frontend-capable;Java+%7C+TypeScript+%7C+PostgreSQL+%7C+Docker"/>
 
-<br>
-
-<img src="https://img.shields.io/badge/Cairo-Egypt-0D1117?style=for-the-badge&logo=googlemaps&logoColor=4DA6FF"/>
-<img src="https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Backend%20Engineering-blue?style=for-the-badge"/>
-
 <br><br>
 
 ### 🧑‍💻 About Me
@@ -41,7 +35,7 @@
 <img src="./assets/maven.png" height="40"/>
 <img src="./assets/jwt.png" height="40"/>
 <img src="./assets/keycloak.png" height="40"/>
-<img src="./assets/postman.png" height="40"/>
+<img src="./assets/ide/postman.png" height="40"/>
 <img src="./assets/ide/intellij-idea.png" height="40"/>
 <img src="./assets/ide/vscode.png" height="40"/>
 <img src="./assets/ide/webstorm.png" height="40"/>
