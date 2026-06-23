@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Elbestawy;Java+Full+Stack+Engineer;Spring+Boot+%7C+Angular+%7C+Docker;Production-Grade+Systems+Builder" alt="Typing SVG" />
+<h1>Hi 👋, I'm Mohamed Elbestawy</h1>
+<h3>Java Full Stack Engineer</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=800&lines=Spring+Boot+%7C+Angular+%7C+Docker;Production-Grade+Systems+Builder;Backend-first%2C+Frontend-capable" alt="Typing SVG" />
 
 </div>
 
