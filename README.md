@@ -25,55 +25,69 @@
 
 ## 🛠️ Tech Stack
 
-### ☕ Backend
-<p>
-  <img src="./assets/java.png" height="40" title="Java"/>
-  <img src="./assets/spring-boot.png" height="40" title="Spring Boot"/>
-  <img src="./assets/maven.png" height="40" title="Maven"/>
-  <img src="./assets/hibernate.png" height="40" title="Hibernate"/>
-  <img src="./assets/junit.png" height="40" title="JUnit"/>
-  <img src="./assets/swagger.png" height="40" title="Swagger / OpenAPI"/>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-### 🌐 Frontend
-<p>
-  <img src="./assets/angular.png" height="40" title="Angular"/>
-  <img src="./assets/typescript.png" height="40" title="TypeScript"/>
-  <img src="./assets/js.png" height="40" title="JavaScript"/>
-  <img src="./assets/html.png" height="40" title="HTML5"/>
-  <img src="./assets/css.png" height="40" title="CSS3"/>
-  <img src="./assets/sass.png" height="40" title="Sass"/>
-  <img src="./assets/bootstrap.png" height="40" title="Bootstrap"/>
-  <img src="./assets/tailwind.png" height="40" title="Tailwind CSS"/>
-</p>
+**☕ Backend**
 
-### 🗄️ Databases & Migrations
-<p>
-  <img src="./assets/postgresql.png" height="40" title="PostgreSQL"/>
-  <img src="./assets/mysql.png" height="40" title="MySQL"/>
-  <img src="./assets/mariadb.png" height="40" title="MariaDB"/>
-  <img src="./assets/redis.png" height="40" title="Redis"/>
-  <img src="./assets/flyway.png" height="40" title="Flyway"/>
-  <img src="./assets/Liquibase.png" height="40" title="Liquibase"/>
-</p>
+<img src="./assets/java.png" height="36" title="Java"/>
+<img src="./assets/spring-boot.png" height="36" title="Spring Boot"/>
+<img src="./assets/maven.png" height="36" title="Maven"/>
+<img src="./assets/hibernate.png" height="36" title="Hibernate"/>
+<img src="./assets/junit.png" height="36" title="JUnit"/>
+<img src="./assets/swagger.png" height="36" title="Swagger / OpenAPI"/>
 
-### 🔐 Auth & Security
-<p>
-  <img src="./assets/jwt.png" height="40" title="JWT"/>
-  <img src="./assets/keycloak.png" height="40" title="Keycloak"/>
-  <img src="./assets/okta.png" height="40" title="Okta"/>
-</p>
+**🔐 Auth & Security**
 
-### 🐳 DevOps & Tools
-<p>
-  <img src="./assets/docker.png" height="40" title="Docker"/>
-  <img src="./assets/git.png" height="40" title="Git"/>
-  <img src="./assets/ide/intellij-idea.png" height="40" title="IntelliJ IDEA"/>
-  <img src="./assets/ide/vscode.png" height="40" title="VS Code"/>
-  <img src="./assets/ide/cursor.png" height="40" title="Cursor"/>
-  <img src="./assets/ide/webstorm.png" height="40" title="WebStorm"/>
-  <img src="./assets/ide/postman.png" height="40" title="Postman"/>
-</p>
+<img src="./assets/jwt.png" height="36" title="JWT"/>
+<img src="./assets/keycloak.png" height="36" title="Keycloak"/>
+<img src="./assets/okta.png" height="36" title="Okta"/>
+
+    </td>
+    <td valign="top" width="50%">
+
+**🌐 Frontend**
+
+<img src="./assets/angular.png" height="36" title="Angular"/>
+<img src="./assets/typescript.png" height="36" title="TypeScript"/>
+<img src="./assets/js.png" height="36" title="JavaScript"/>
+<img src="./assets/html.png" height="36" title="HTML5"/>
+<img src="./assets/css.png" height="36" title="CSS3"/>
+<img src="./assets/sass.png" height="36" title="Sass"/>
+<img src="./assets/bootstrap.png" height="36" title="Bootstrap"/>
+<img src="./assets/tailwind.png" height="36" title="Tailwind CSS"/>
+
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+
+**🗄️ Databases & Migrations**
+
+<img src="./assets/postgresql.png" height="36" title="PostgreSQL"/>
+<img src="./assets/mysql.png" height="36" title="MySQL"/>
+<img src="./assets/mariadb.png" height="36" title="MariaDB"/>
+<img src="./assets/redis.png" height="36" title="Redis"/>
+<img src="./assets/flyway.png" height="36" title="Flyway"/>
+<img src="./assets/Liquibase.png" height="36" title="Liquibase"/>
+
+    </td>
+    <td valign="top" width="50%">
+
+**🐳 DevOps & Tools**
+
+<img src="./assets/docker.png" height="36" title="Docker"/>
+<img src="./assets/git.png" height="36" title="Git"/>
+<img src="./assets/ide/intellij-idea.png" height="36" title="IntelliJ IDEA"/>
+<img src="./assets/ide/vscode.png" height="36" title="VS Code"/>
+<img src="./assets/ide/cursor.png" height="36" title="Cursor"/>
+<img src="./assets/ide/webstorm.png" height="36" title="WebStorm"/>
+<img src="./assets/ide/postman.png" height="36" title="Postman"/>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
