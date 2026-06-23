@@ -25,53 +25,58 @@
 
 ## 🛠️ Tech Stack
 
-<table width="100%">
+<table border="0" cellspacing="0" cellpadding="16" width="100%">
   <tr>
     <td align="left" valign="top" width="50%">
-      <b>☕ Backend</b><br/><br/>
-      <img src="./assets/java.png" height="36" title="Java"/>
-      <img src="./assets/spring-boot.png" height="36" title="Spring Boot"/>
-      <img src="./assets/maven.png" height="36" title="Maven"/>
-      <img src="./assets/hibernate.png" height="36" title="Hibernate"/>
-      <img src="./assets/junit.png" height="36" title="JUnit"/>
-      <img src="./assets/swagger.png" height="36" title="Swagger"/>
+      <img src="https://img.shields.io/badge/-%E2%98%95%20Backend-1a1a2e?style=flat-square" />
       <br/><br/>
-      <b>🔐 Auth &amp; Security</b><br/><br/>
-      <img src="./assets/jwt.png" height="36" title="JWT"/>
-      <img src="./assets/keycloak.png" height="36" title="Keycloak"/>
-      <img src="./assets/okta.png" height="36" title="Okta"/>
+      <img src="./assets/java.png" height="40" title="Java"/>
+      <img src="./assets/spring-boot.png" height="40" title="Spring Boot"/>
+      <img src="./assets/maven.png" height="40" title="Maven"/>
+      <img src="./assets/hibernate.png" height="40" title="Hibernate"/>
+      <img src="./assets/junit.png" height="40" title="JUnit"/>
+      <img src="./assets/swagger.png" height="40" title="Swagger"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/-%F0%9F%94%90%20Auth%20%26%20Security-1a1a2e?style=flat-square" />
+      <br/><br/>
+      <img src="./assets/jwt.png" height="40" title="JWT"/>
+      <img src="./assets/keycloak.png" height="40" title="Keycloak"/>
+      <img src="./assets/okta.png" height="40" title="Okta"/>
     </td>
     <td align="left" valign="top" width="50%">
-      <b>🌐 Frontend</b><br/><br/>
-      <img src="./assets/angular.png" height="36" title="Angular"/>
-      <img src="./assets/typescript.png" height="36" title="TypeScript"/>
-      <img src="./assets/js.png" height="36" title="JavaScript"/>
-      <img src="./assets/html.png" height="36" title="HTML5"/>
-      <img src="./assets/css.png" height="36" title="CSS3"/>
-      <img src="./assets/sass.png" height="36" title="Sass"/>
-      <img src="./assets/bootstrap.png" height="36" title="Bootstrap"/>
-      <img src="./assets/tailwind.png" height="36" title="Tailwind"/>
+      <img src="https://img.shields.io/badge/-%F0%9F%8C%90%20Frontend-1a1a2e?style=flat-square" />
+      <br/><br/>
+      <img src="./assets/angular.png" height="40" title="Angular"/>
+      <img src="./assets/typescript.png" height="40" title="TypeScript"/>
+      <img src="./assets/js.png" height="40" title="JavaScript"/>
+      <img src="./assets/html.png" height="40" title="HTML5"/>
+      <img src="./assets/css.png" height="40" title="CSS3"/>
+      <img src="./assets/sass.png" height="40" title="Sass"/>
+      <img src="./assets/bootstrap.png" height="40" title="Bootstrap"/>
+      <img src="./assets/tailwind.png" height="40" title="Tailwind"/>
     </td>
   </tr>
   <tr>
     <td align="left" valign="top" width="50%">
-      <b>🗄️ Databases &amp; Migrations</b><br/><br/>
-      <img src="./assets/postgresql.png" height="36" title="PostgreSQL"/>
-      <img src="./assets/mysql.png" height="36" title="MySQL"/>
-      <img src="./assets/mariadb.png" height="36" title="MariaDB"/>
-      <img src="./assets/redis.png" height="36" title="Redis"/>
-      <img src="./assets/flyway.png" height="36" title="Flyway"/>
-      <img src="./assets/Liquibase.png" height="36" title="Liquibase"/>
+      <img src="https://img.shields.io/badge/-%F0%9F%97%84%EF%B8%8F%20Databases%20%26%20Migrations-1a1a2e?style=flat-square" />
+      <br/><br/>
+      <img src="./assets/postgresql.png" height="40" title="PostgreSQL"/>
+      <img src="./assets/mysql.png" height="40" title="MySQL"/>
+      <img src="./assets/mariadb.png" height="40" title="MariaDB"/>
+      <img src="./assets/redis.png" height="40" title="Redis"/>
+      <img src="./assets/flyway.png" height="40" title="Flyway"/>
+      <img src="./assets/Liquibase.png" height="40" title="Liquibase"/>
     </td>
     <td align="left" valign="top" width="50%">
-      <b>🐳 DevOps &amp; Tools</b><br/><br/>
-      <img src="./assets/docker.png" height="36" title="Docker"/>
-      <img src="./assets/git.png" height="36" title="Git"/>
-      <img src="./assets/ide/intellij-idea.png" height="36" title="IntelliJ IDEA"/>
-      <img src="./assets/ide/vscode.png" height="36" title="VS Code"/>
-      <img src="./assets/ide/cursor.png" height="36" title="Cursor"/>
-      <img src="./assets/ide/webstorm.png" height="36" title="WebStorm"/>
-      <img src="./assets/ide/postman.png" height="36" title="Postman"/>
+      <img src="https://img.shields.io/badge/-%F0%9F%90%B3%20DevOps%20%26%20Tools-1a1a2e?style=flat-square" />
+      <br/><br/>
+      <img src="./assets/docker.png" height="40" title="Docker"/>
+      <img src="./assets/git.png" height="40" title="Git"/>
+      <img src="./assets/ide/intellij-idea.png" height="40" title="IntelliJ IDEA"/>
+      <img src="./assets/ide/vscode.png" height="40" title="VS Code"/>
+      <img src="./assets/ide/cursor.png" height="40" title="Cursor"/>
+      <img src="./assets/ide/webstorm.png" height="40" title="WebStorm"/>
+      <img src="./assets/ide/postman.png" height="40" title="Postman"/>
     </td>
   </tr>
 </table>
@@ -85,11 +90,11 @@
 <a href="https://linkedin.com/in/elbestawy" target="_blank">
   <img src="./assets/contact/linkedin.png" height="40" title="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:melbestawyyy@gmail.com" target="_blank">
   <img src="./assets/contact/gmail.png" height="40" title="Gmail"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.codewars.com/users/elbestawyy" target="_blank">
   <img src="./assets/contact/codewars.png" height="40" title="Codewars"/>
 </a>
