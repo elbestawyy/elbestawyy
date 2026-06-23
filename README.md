@@ -23,47 +23,47 @@
 
 <div align="center">
 
-<img src="./assets/java.png" height="80"/>
+<img src="./assets/java.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/spring-boot.png" height="80"/>
+<img src="./assets/spring-boot.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/angular.png" height="80"/>
+<img src="./assets/angular.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/typescript.png" height="80"/>
+<img src="./assets/typescript.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/js.png" height="80"/>
+<img src="./assets/js.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/postgresql.png" height="80"/>
+<img src="./assets/postgresql.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/mysql.png" height="80"/>
+<img src="./assets/mysql.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/redis.png" height="80"/>
+<img src="./assets/redis.png" height="70"/>
 
 <br><br>
 
-<img src="./assets/docker.png" height="80"/>
+<img src="./assets/docker.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/git.png" height="80"/>
+<img src="./assets/git.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/swagger.png" height="80"/>
+<img src="./assets/swagger.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/hibernate.png" height="80"/>
+<img src="./assets/hibernate.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/maven.png" height="80"/>
+<img src="./assets/maven.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/jwt.png" height="80"/>
+<img src="./assets/jwt.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/keycloak.png" height="80"/>
+<img src="./assets/keycloak.png" height="70"/>
 
 <br><br>
 
-<img src="./assets/ide/intellij-idea.png" height="80"/>
+<img src="./assets/ide/intellij-idea.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/ide/vscode.png" height="80"/>
+<img src="./assets/ide/vscode.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/ide/webstorm.png" height="80"/>
+<img src="./assets/ide/webstorm.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/ide/postman.png" height="80"/>
+<img src="./assets/ide/postman.png" height="70"/>
 
 </div>
 
@@ -88,15 +88,11 @@
 <a href="https://linkedin.com/in/elbestawy">
 <img src="./assets/contact/linkedin.png" height="55"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:melbestawyyy@gmail.com">
 <img src="./assets/contact/gmail.png" height="55"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.codewars.com/users/elbestawyy">
 <img src="./assets/contact/codewars.png" height="55"/>
 </a>
