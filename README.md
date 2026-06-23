@@ -1,102 +1,91 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Mohamed Elbestawy</h1>
-<h3>Java Full Stack Engineer</h3>
+# Hi 👋, I'm Mohamed Elbestawy
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=800&lines=Spring+Boot+%7C+Angular+%7C+Docker;Production-Grade+Systems+Builder;Backend-first%2C+Frontend-capable" alt="Typing SVG" />
+### Java Full Stack Engineer
+
+Building scalable backend systems and modern web applications.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=700&lines=Spring+Boot+%7C+Angular+%7C+Docker;Production-Grade+Systems+Builder;Backend-first%2C+Frontend-capable" />
+
+</div>
+
+## 🧑‍💻 About Me
+
+- 🏗️ Java Full Stack Engineer — Backend-first, Frontend-capable
+- ⚙️ Building secure and scalable applications with Spring Boot and Angular
+- 🔄 Experienced in integrations using Apache Camel and REST APIs
+- 🏥 Working with enterprise healthcare systems (FHIR / HL7)
+- 🔐 Authentication & Security using JWT, OAuth2, Keycloak and Okta
+- 🐳 Containerized deployments with Docker
+- 📍 Cairo, Egypt
+
+---
+
+## 🛠️ Engineering Stack
+
+<div align="center">
+
+<img src="./assets/java.png" height="42"/>
+<img src="./assets/spring-boot.png" height="42"/>
+<img src="./assets/angular.png" height="42"/>
+<img src="./assets/typescript.png" height="42"/>
+<img src="./assets/js.png" height="42"/>
+<img src="./assets/html.png" height="42"/>
+<img src="./assets/css.png" height="42"/>
+<img src="./assets/sass.png" height="42"/>
+<img src="./assets/tailwind.png" height="42"/>
+<img src="./assets/bootstrap.png" height="42"/>
+
+<br><br>
+
+<img src="./assets/postgresql.png" height="42"/>
+<img src="./assets/mysql.png" height="42"/>
+<img src="./assets/mariadb.png" height="42"/>
+<img src="./assets/redis.png" height="42"/>
+<img src="./assets/flyway.png" height="42"/>
+<img src="./assets/Liquibase.png" height="42"/>
+
+<br><br>
+
+<img src="./assets/jwt.png" height="42"/>
+<img src="./assets/keycloak.png" height="42"/>
+<img src="./assets/okta.png" height="42"/>
+<img src="./assets/apache-camel.png" height="42"/>
+<img src="./assets/swagger.png" height="42"/>
+<img src="./assets/junit.png" height="42"/>
+<img src="./assets/docker.png" height="42"/>
+<img src="./assets/git.png" height="42"/>
+<img src="./assets/maven.png" height="42"/>
+<img src="./assets/postman.png" height="42"/>
+
+<br><br>
+
+<img src="./assets/fhir.png" height="42"/>
+<img src="./assets/websocket.png" height="42"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-
-```text
-🏗️  Java Full Stack Engineer — Backend-first, Frontend-capable
-⚙️  Spring Boot · Angular · Apache Camel · REST APIs
-🏥  Enterprise Healthcare Systems (FHIR/HL7) & Islamic Finance
-🔐  Auth & Security: JWT · OAuth2 · Keycloak · Okta
-🐳  Containerized deployments with Docker
-🧹  Clean Code advocate · Production-grade mindset
-📍  Cairo, Egypt
-```
-
----
-
-## 🛠️ Tech Stack
-
-<table border="0" cellspacing="0" cellpadding="16" width="100%">
-  <tr>
-    <td align="left" valign="top" width="50%">
-      <img src="https://img.shields.io/badge/-%E2%98%95%20Backend-1a1a2e?style=flat-square" />
-      <br/><br/>
-      <img src="./assets/java.png" height="40" title="Java"/>
-      <img src="./assets/spring-boot.png" height="40" title="Spring Boot"/>
-      <img src="./assets/maven.png" height="40" title="Maven"/>
-      <img src="./assets/hibernate.png" height="40" title="Hibernate"/>
-      <img src="./assets/junit.png" height="40" title="JUnit"/>
-      <img src="./assets/swagger.png" height="40" title="Swagger"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/-%F0%9F%94%90%20Auth%20%26%20Security-1a1a2e?style=flat-square" />
-      <br/><br/>
-      <img src="./assets/jwt.png" height="40" title="JWT"/>
-      <img src="./assets/keycloak.png" height="40" title="Keycloak"/>
-      <img src="./assets/okta.png" height="40" title="Okta"/>
-    </td>
-    <td align="left" valign="top" width="50%">
-      <img src="https://img.shields.io/badge/-%F0%9F%8C%90%20Frontend-1a1a2e?style=flat-square" />
-      <br/><br/>
-      <img src="./assets/angular.png" height="40" title="Angular"/>
-      <img src="./assets/typescript.png" height="40" title="TypeScript"/>
-      <img src="./assets/js.png" height="40" title="JavaScript"/>
-      <img src="./assets/html.png" height="40" title="HTML5"/>
-      <img src="./assets/css.png" height="40" title="CSS3"/>
-      <img src="./assets/sass.png" height="40" title="Sass"/>
-      <img src="./assets/bootstrap.png" height="40" title="Bootstrap"/>
-      <img src="./assets/tailwind.png" height="40" title="Tailwind"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="left" valign="top" width="50%">
-      <img src="https://img.shields.io/badge/-%F0%9F%97%84%EF%B8%8F%20Databases%20%26%20Migrations-1a1a2e?style=flat-square" />
-      <br/><br/>
-      <img src="./assets/postgresql.png" height="40" title="PostgreSQL"/>
-      <img src="./assets/mysql.png" height="40" title="MySQL"/>
-      <img src="./assets/mariadb.png" height="40" title="MariaDB"/>
-      <img src="./assets/redis.png" height="40" title="Redis"/>
-      <img src="./assets/flyway.png" height="40" title="Flyway"/>
-      <img src="./assets/Liquibase.png" height="40" title="Liquibase"/>
-    </td>
-    <td align="left" valign="top" width="50%">
-      <img src="https://img.shields.io/badge/-%F0%9F%90%B3%20DevOps%20%26%20Tools-1a1a2e?style=flat-square" />
-      <br/><br/>
-      <img src="./assets/docker.png" height="40" title="Docker"/>
-      <img src="./assets/git.png" height="40" title="Git"/>
-      <img src="./assets/ide/intellij-idea.png" height="40" title="IntelliJ IDEA"/>
-      <img src="./assets/ide/vscode.png" height="40" title="VS Code"/>
-      <img src="./assets/ide/cursor.png" height="40" title="Cursor"/>
-      <img src="./assets/ide/webstorm.png" height="40" title="WebStorm"/>
-      <img src="./assets/ide/postman.png" height="40" title="Postman"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌐 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/elbestawy" target="_blank">
-  <img src="./assets/contact/linkedin.png" height="40" title="LinkedIn"/>
+<img src="./assets/contact/linkedin.png" height="45"/>
 </a>
+
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:melbestawyyy@gmail.com" target="_blank">
-  <img src="./assets/contact/gmail.png" height="40" title="Gmail"/>
+
+<a href="mailto:melbestawyyy@gmail.com">
+<img src="./assets/contact/gmail.png" height="45"/>
 </a>
+
 &nbsp;&nbsp;&nbsp;
+
 <a href="https://www.codewars.com/users/elbestawyy" target="_blank">
-  <img src="./assets/contact/codewars.png" height="40" title="Codewars"/>
+<img src="./assets/contact/codewars.png" height="45"/>
 </a>
 
 </div>
@@ -104,5 +93,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
 </div>
