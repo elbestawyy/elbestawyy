@@ -8,7 +8,6 @@
 
 </div>
 
----
 
 # 🧑‍💻 About Me
 
@@ -19,7 +18,6 @@
 - 🔐 Secure by design: Spring Security, JWT, OAuth2, Keycloak
 - 🤖 Use AI tools to speed up development, while owning design, review, and quality
 
----
 
 # 🚀 Tech Stack
 
@@ -124,7 +122,6 @@
 
 </div>
 
----
 
 # 📊 GitHub Stats
 
@@ -135,7 +132,6 @@
 <img alt="Top Languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbestawyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 </div>
----
 
 # 🤝 Let's Connect
 
