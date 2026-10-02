@@ -4,7 +4,7 @@
 
 ### Java Full Stack Engineer
 
-<img alt="Java Full Stack Engineer | Spring Boot | Angular | Microservices" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=750&height=45&repeat=true&lines=Java+%7C+Spring+Boot+%7C+Angular;Backend-first%2C+Frontend-capable;Microservices+%7C+REST+APIs+%7C+Cloud+Patterns;PostgreSQL+%7C+Kafka+%7C+Docker"/>
+<img alt="Java Full Stack Engineer specializing in Spring Boot, Angular, messaging, DevOps, and enterprise integrations" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=4DA6FF&center=true&vCenter=true&width=750&height=45&lines=Java+Full+Stack+Engineer;Spring+Boot+%7C+Angular+%7C+TypeScript;Microservices+%26+REST+APIs;Kafka+%7C+RabbitMQ+%7C+Event-Driven+Architecture;Docker+%7C+Kubernetes+%7C+Jenkins+%7C+CI%2FCD;Healthcare+%7C+FinTech+%7C+Telecom+%7C+Enterprise+Systems"/>
 
 </div>
 
