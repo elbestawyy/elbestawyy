@@ -4,7 +4,7 @@
 
 ### Java Full Stack Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=750&lines=Spring+Boot+Framework+%7C+Angular;Production-Grade+Systems+Builder;Backend-first%2C+Frontend-capable;Java+%7C+TypeScript+%7C+PostgreSQL+%7C+Docker"/>
+<img alt="Java Full Stack Engineer | Spring Boot | Angular | Microservices" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=750&height=45&repeat=true&lines=Java+%7C+Spring+Boot+%7C+Angular;Backend-first%2C+Frontend-capable;Microservices+%7C+REST+APIs+%7C+Cloud+Patterns;PostgreSQL+%7C+Kafka+%7C+Docker"/>
 
 </div>
 
@@ -12,17 +12,19 @@
 
 # 🧑‍💻 About Me
 
-- 🚀 Building scalable production-grade applications  
-- 🌐 Backend-first, Frontend-capable  
-- 🔐 JWT • OAuth2 • Keycloak • Docker  
-- 🧹 Clean Architecture & Clean Code Enthusiast  
+- ☕ Java & Spring Boot engineer building enterprise backends, REST APIs, and microservices
+- 🏥 Delivered systems across Healthcare, FinTech, Telecom, and ERP domains
+- 🔄 Experienced in modernizing legacy applications and migrating them to Angular
+- 🌐 Full-stack with Angular & TypeScript for building complete features end to end
+- 🔐 Secure by design: Spring Security, JWT, OAuth2, Keycloak
+- 🤖 Use AI tools to speed up development, while owning design, review, and quality
 
 ---
 
 # 🚀 Tech Stack
 
-<div align="center">
 
+<div align="center">
 <img src="./assets/backend/java.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
 <img src="./assets/backend/spring-core.png" height="70"/>
@@ -45,12 +47,12 @@
 &nbsp;&nbsp;&nbsp;
 <img src="./assets/backend/apache-kafka.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/backend/rabbitmq.png" height="70"/>
+<img src="./assets/backend/rabbitmq.png" height="30"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/backend/websocket.png" height="70"/>
+<img src="./assets/backend/websocket.png" height="50"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/backend/junit.png" height="70"/>
-
+<img src="./assets/backend/junit.png" height="80"/>
+  
 <br><br>
 
 <img src="./assets/db/postgresql.png" height="70"/>
@@ -128,12 +130,11 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=elbestawyy&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=elbestawyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=elbestawyy&theme=tokyonight&hide_border=true"/>
+<img alt="Top Languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbestawyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 </div>
-
 ---
 
 # 🤝 Let's Connect
