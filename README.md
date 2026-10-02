@@ -39,6 +39,8 @@
 <img src="./assets/jwt.png" height="60"/>
 &nbsp;&nbsp;&nbsp;
 <img src="./assets/keycloak.png" height="60"/>
+&nbsp;&nbsp;&nbsp;
+
 
 </div>
 
