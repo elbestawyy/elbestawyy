@@ -29,7 +29,7 @@
 &nbsp;&nbsp;&nbsp;
 <img src="./assets/backend/spring-boot.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/backend/spring-cloud.png" height="70"/>
+<img src="./assets/backend/spring-cloud.png" height="63"/>
 &nbsp;&nbsp;&nbsp;
 <img src="./assets/backend/spring-security.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
