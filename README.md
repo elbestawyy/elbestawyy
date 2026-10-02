@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Mohamed Elbestawy
 
-### Java Full Stack Engineer
+### Java Software Engineer
 
 <img alt="Java Full Stack Engineer specializing in Spring Boot, Angular, messaging, DevOps, and enterprise integrations" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=4DA6FF&center=true&vCenter=true&width=750&height=45&lines=Java+Full+Stack+Engineer;Spring+Boot+%7C+Angular+%7C+TypeScript;Microservices+%26+REST+APIs;Kafka+%7C+RabbitMQ+%7C+Event-Driven+Architecture;Docker+%7C+Kubernetes+%7C+Jenkins+%7C+CI%2FCD;Healthcare+%7C+FinTech+%7C+Telecom+%7C+Enterprise+Systems"/>
 
