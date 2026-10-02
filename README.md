@@ -23,46 +23,100 @@
 
 <div align="center">
 
-<img src="./assets/java.png" height="70"/>
+<img src="./assets/backend/java.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/spring-boot.png" height="70"/>
+<img src="./assets/backend/spring-core.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/postgresql.png" height="70"/>
+<img src="./assets/backend/spring-boot.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/mysql.png" height="70"/>
+<img src="./assets/backend/spring-cloud.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/redis.png" height="70"/>
+<img src="./assets/backend/spring-security.png" height="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/backend/oauth.png" height="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/backend/jwt.png" height="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/backend/keycloak.png" height="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/backend/okta.png" height="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/backend/hibernate.png" height="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/backend/apache-kafka.png" height="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/backend/rabbitmq.png" height="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/backend/websocket.png" height="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/backend/junit.png" height="70"/>
 
 <br><br>
-<img src="./assets/angular.png" height="70"/>
+
+<img src="./assets/db/postgresql.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/typescript.png" height="70"/>
+<img src="./assets/db/mysql.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/js.png" height="70"/>
+<img src="./assets/db/oracle-db.png" height="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/db/mariadb.png" height="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/db/mongodb.png" height="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/db/flyway.png" height="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/db/Liquibase.png" height="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/db/redis.png" height="70"/>
+
+<br><br>
+<img src="./assets/frontend/angular.png" height="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/frontend/typescript.png" height="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/frontend/js.png" height="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/frontend/sass.png" height="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/frontend/css.png" height="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/frontend/html.png" height="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/frontend/bootstrap.png" height="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/frontend/tailwind.png" height="70"/>
 
 <br><br>
 
-<img src="./assets/docker.png" height="70"/>
+<img src="./assets/dev-ops/docker.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/git.png" height="70"/>
+<img src="./assets/dev-ops/kubernetes.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/swagger.png" height="70"/>
+<img src="./assets/dev-ops/jenkins.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/hibernate.png" height="70"/>
+<img src="./assets/dev-ops/zipkin.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/maven.png" height="70"/>
+<img src="./assets/dev-ops/git.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/jwt.png" height="70"/>
+<img src="./assets/dev-ops/github.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/keycloak.png" height="70"/>
+<img src="./assets/dev-ops/swagger.png" height="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/dev-ops/maven.png" height="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/dev-ops/gradle.png" height="70"/>
 
 <br><br>
 
 <img src="./assets/ide/intellij-idea.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
+<img src="./assets/ide/webstorm.png" height="70"/>
+&nbsp;&nbsp;&nbsp;
 <img src="./assets/ide/vscode.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/ide/webstorm.png" height="70"/>
+<img src="./assets/ide/antigravity.png" height="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/ide/cursor.png" height="70"/>
 &nbsp;&nbsp;&nbsp;
 <img src="./assets/ide/postman.png" height="70"/>
 
